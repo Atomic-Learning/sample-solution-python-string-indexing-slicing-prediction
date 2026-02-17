@@ -1,0 +1,16 @@
+{
+    "title": "Sample Solution: String Indexing and Slicing Prediction",
+    "slug": "sample-solution-python-string-indexing-slicing-prediction",
+    "description": "Sample solution showing predictions for string indexing and slicing operations with explanations of how each one works.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 8,
+    "prerequisites": [
+        "exercise-python-string-indexing-slicing-prediction"
+    ],
+    "related": []
+}
